@@ -22,6 +22,8 @@ Wildlife Compass provides a personalized exploration experience, enabling users 
 [Biological Taxonomy](https://github.com/sourceduty/Biological_Taxonomy)
 <br>
 [Animal Product](https://github.com/sourceduty/Animal_Product)
+<br>
+[Natural Maker](https://github.com/sourceduty/Natural_Maker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
